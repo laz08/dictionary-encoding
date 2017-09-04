@@ -1,0 +1,7 @@
+#Extensions that git should ignore
+*.pdf
+
+*.pyc
+*.env
+
+*.txt
