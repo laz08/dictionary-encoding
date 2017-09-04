@@ -1,7 +1,10 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
-import LZ77, LZ78, LZSS, LZW
+import algs.LZ77 as LZ77
+import algs.LZ78 as LZ78
+import algs.LZSS as LZSS
+import algs.LZW as LZW
 
 ##--------------------------------------------------------------
 ##-------------------------- ENCODING --------------------------
